@@ -1,2 +1,2 @@
-# contest1
+# Contest1
 NewUU Data Science course contest №1
